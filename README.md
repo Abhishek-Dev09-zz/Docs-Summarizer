@@ -28,7 +28,7 @@ Quick Start
 Install Python 3.8, then clone or dowload and run the setup.py from
 https://github.com/Abhishek-Dev09/News-summarizer 
 
-Then run ``python3 setup.py`` for run.
+Then run ``python3 setup.py``.
 
 Then enter the file name of news with path you want to summarize.
 For example: data/82.txt 
@@ -64,7 +64,7 @@ Pre-requisites:
 
 
 
-* After that, ensure ``pip`` is installed on your local machine. If not intalled , 
+* After that, make ensure that ``pip`` is installed on your local machine. If not intalled , 
  then run ``python get-pip.py`` .For more info https://packaging.python.org/tutorials/installing-packages/
   
 * After that, install nltk (natural language toolkit ) by running ``pip install nltk`` or ``conda install nltk``
