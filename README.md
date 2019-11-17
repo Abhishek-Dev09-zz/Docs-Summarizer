@@ -3,8 +3,6 @@
 [![Join the chat at https://gitter.im/News-Summarizer/community](https://badges.gitter.im/News-Summarizer/community.svg)](https://gitter.im/News-Summarizer/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 =======
 
-**News Summarizer**
-=======================
 
 A typical software project that summarizes important news.
 As we know reading whole newspaper is very time consuming and very difficult to filter important lines. News-Summarizer discovers and summarizes this data for you.
