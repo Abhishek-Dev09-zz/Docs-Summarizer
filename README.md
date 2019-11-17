@@ -20,7 +20,7 @@ Why use News-Summarizer?
 - Written in Python, Summarizer is **easy to extend with plugins** to contribute new
   and improved scanners, data summarization, and new outputs.
 
-- ScanCode is **actively maintained** .
+- News-Summarizer is **actively maintained** .
 
 Quick Start
 ===========
