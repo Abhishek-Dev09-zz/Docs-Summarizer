@@ -25,7 +25,7 @@ Why use News-Summarizer?
 Quick Start
 ===========
 
-Install Python 3.8 then download and run the setup.py from
+Install Python 3.8 then clone and run the setup.py from
 https://github.com/Abhishek-Dev09/News-summarizer 
 
 Then run ``python3 setup.py`` for run.
@@ -70,7 +70,7 @@ Pre-requisites:
 * After that, install nltk (natural language toolkit ) by running ``pip install nltk`` or ``conda install nltk``
   If you are using macOS , you can also run ``brew install nltk``
   
-  Next, download and run the news Summarizer release from
+  Next, clone the directory and run the news Summarizer release from
   https://github.com/Abhishek-Dev09/News-summarizer 
 
 
