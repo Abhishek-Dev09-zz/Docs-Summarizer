@@ -25,7 +25,7 @@ Why use News-Summarizer?
 Quick Start
 ===========
 
-Install Python 3.8 then clone and run the setup.py from
+Install Python 3.8, then clone or dowload and run the setup.py from
 https://github.com/Abhishek-Dev09/News-summarizer 
 
 Then run ``python3 setup.py`` for run.
