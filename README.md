@@ -1,6 +1,7 @@
-================
-News Summarizer
-================
+
+**News Summarizer**
+=======================
+
 A typical software project that summarizes important news.
 As we know reading whole newspaper is very time consuming and very difficult to filter important lines. News-Summarizer discovers and summarizes this data for you.
 
